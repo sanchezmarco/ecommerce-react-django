@@ -13,4 +13,14 @@ Project to practice  common patterns of development an Ecommerce using React lib
   - Every feature should have the information in the Issues 
   - Every PR will be deploy in Heroku 
   - All the feature needs to have User Story 
+
+### Iteration 0 
+Simple cart for creating an order 
+![image](https://github.com/sanchezmarco/ecommerce-react-django/assets/66743944/9300f6a0-460c-4ac5-b158-0dd077f7db1c)
+
+### Iteration 1 
+The seller is able to manage the order and notify the user
+![image](https://github.com/sanchezmarco/ecommerce-react-django/assets/66743944/b6bdae52-acf2-40dd-9bde-6aff4d212276)
+
+
   
