@@ -20,7 +20,8 @@ Simple cart for creating an order
 
 ### Iteration 1 
 The seller is able to manage the order and notify the user
-![image](https://github.com/sanchezmarco/ecommerce-react-django/assets/66743944/b6bdae52-acf2-40dd-9bde-6aff4d212276)
+![image](https://github.com/sanchezmarco/ecommerce-react-django/assets/66743944/8723d719-5ead-4024-ab46-94555ddb6edb)
+
 
 
   
